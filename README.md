@@ -6,3 +6,4 @@
 ###### &nbsp;&nbsp;&nbsp;&nbsp;--cast_line.png
 ###### &nbsp;&nbsp;&nbsp;&nbsp;--drag.png
 ###### &nbsp;&nbsp;--auto_fish.exe
+###### &nbsp;&nbsp;--opencv_world490.dll
